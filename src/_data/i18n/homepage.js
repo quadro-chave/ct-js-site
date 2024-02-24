@@ -169,6 +169,7 @@ const voc = {
             customJS: 'Capacidade de usar JavaScript personalizado',
             easyPacking: 'Embalagem e implantação fáceis'
         },
+        allFeatures: 'Confira todos os recursos',
 
         seeRoadmap: 'Veja nosso roteiro',
 
