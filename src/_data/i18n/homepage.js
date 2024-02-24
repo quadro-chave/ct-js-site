@@ -164,6 +164,7 @@ const voc = {
             collisionHandling: 'Colisões, e outras bibliotecas',
             animations: 'Quadros & animações esqueléticas',
             sounds: 'Música & gerenciador de sons',
+            fx: 'Sistema de partículas, shaders, e sistema de iluminação',
             styles: 'Estilos para reutilizar configurações da GUI',
             docs: 'Notas & documentos em um painel lateral, em todas as telas',
             customJS: 'Capacidade de usar JavaScript personalizado',
